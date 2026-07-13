@@ -1,109 +1,258 @@
+🛒 FreeMarket – Nigeria's Marketplace for Products, Businesses, Artisans & Riders
 
-# Vendora – Smart Shop Management & Sales Tracking App
+""Website" (https://img.shields.io/badge/Visit-FreeMarket-success)" (https://freemarket.fly.dev)
 
-Vendora is a modern shop management application designed to help
-business owners track sales, manage inventory, calculate profits,
-and collaborate with multiple cashiers in real time.
+FreeMarket is a growing digital marketplace that connects buyers, sellers, businesses, artisans, service providers, and riders across Nigeria.
 
-Built with **Qt 6 (QML)**, Vendora works on **Android tablets and desktop**,
-providing a fast, secure, and user-friendly experience for small
-and medium businesses.
+Whether you're looking to sell products, promote your business, hire a skilled artisan, find a delivery rider, advertise services, or discover opportunities in your area, FreeMarket provides a simple and accessible platform to connect people and businesses.
 
----
-
-## 🚀 Key Features
-
-- 📦 Product & Stock Management
-- 💰 Automatic profit calculation per product
-- 📊 Daily, weekly, and monthly sales reports
-- 🧾 Auto-generated receipts (PDF & Email)
-- 👥 Multiple cashiers (up to 20 on paid plan)
-- ☁️ Cloud-based database (data never lost)
-- 🔄 Real-time stock & sales synchronization
-- 📝 Shared notes (admin & cashiers – chat-like usage)
-- 📸 Quick snap camera for transaction security
-- 🔐 Secure login (fingerprint login in development)
--  ☁️ Data Security (100 %)
+🌍 Website: https://freemarket.fly.dev
 
 ---
 
-## 🏪 Built for Business Owners
+🚀 What is FreeMarket?
 
-Vendora allows shop owners (admins) to:
-- Create cashier accounts
-- Monitor all transactions
-- Track profit per stock item
-- Manage multiple sellers in one shop
-- Control subscriptions and access
+FreeMarket is an all-in-one marketplace and business discovery platform designed to help individuals and businesses reach more customers online.
 
-Admins are ranked as **Champions** with a unique App ID,
-which can be used to display their products on an external website
-for customers to view online.
+Unlike traditional classified platforms, FreeMarket brings together:
 
----
+- 🛍 Product sellers
+- 🏪 Businesses and shops
+- 👨‍🔧 Skilled artisans
+- 🏍 Delivery and dispatch riders
+- 💼 Service providers
+- 🤝 Buyers and customers
 
-## 💳 Payment & Transaction Tracking
-
-Vendora records sales even when payments are made outside the app:
-- Cash
-- Bank Transfer
-- Card
-
-All transaction types are logged and categorized correctly.
+Our mission is to make buying, selling, advertising, and connecting easier for everyone.
 
 ---
 
-## 💼 Subscription Plans
+✨ Key Features
 
-- 🎁 First month: **FREE**
-- 💸 Monthly: ₦5,000
-- 📆 6 Months Plan
-- 🗓️ Yearly Plan
+🛍 Marketplace Listings
 
-Subscriptions keep the cloud services and real-time sync running.
+Buy and sell products from various categories including vehicles, electronics, fashion, agriculture, property, and more.
+
+🏪 Business Directory
+
+Create a business profile and make your products and services visible to potential customers.
+
+👨‍🔧 Artisan Directory
+
+Artisans and skilled workers can showcase their services, contact information, experience, and locations.
+
+🏍 Rider & Logistics Network
+
+Dispatch riders, delivery agents, transport operators, and logistics providers can promote their services and connect with customers.
+
+🔍 Smart Search
+
+Quickly find products, businesses, artisans, and services based on category and location.
+
+📍 Location-Based Discovery
+
+Find opportunities and service providers closer to your area.
+
+📱 Mobile Friendly
+
+Designed to work smoothly on smartphones, tablets, and desktop devices.
+
+🔒 Secure Accounts
+
+Users can create accounts, manage listings, and maintain their profiles securely.
+
+⚡ Fast and Simple
+
+Easy listing creation and quick access to information without unnecessary complexity.
 
 ---
 
-## 🖥️ Platform Support
+🛍 Marketplace Categories
 
-- ✅ Android (Tablet)
-- ✅ Desktop
-- ❌ iOS (Not yet supported)
+FreeMarket supports a wide range of product categories including:
 
----
-
-## 🛠 Tech Stack
-
-- Qt 6
-- QML
-- C++
-- Cloud Database
-- PDF Generation
-- Real-time Sync Engine
-
----
-
-## 📩 Contact
-
-- 📧 Email: **vendoramark@gmail.com**
+- Vehicles
+- Car Parts & Engines
+- Motorcycles
+- Electronics
+- Mobile Phones
+- Computers
+- Fashion & Clothing
+- Home & Furniture
+- Agriculture & Farm Produce
+- Property & Real Estate
+- Health & Beauty
+- Sports & Fitness
+- Books & Education
+- Industrial Equipment
+- Business Supplies
+- General Merchandise
 
 ---
 
-## 👨‍💻 Developer
+👨‍🔧 Artisan & Skilled Service Categories
 
-**STK Kome (Joshua Henry)**  
-with the **STK Team**
-- 📧 Email: **solutiontoolkit1@gmail.com.com**
+FreeMarket helps skilled workers connect with customers nationwide.
+
+Examples include:
+
+- Electricians
+- Plumbers
+- Mechanics
+- Carpenters
+- Welders
+- Bricklayers
+- Painters
+- AC Technicians
+- Tailors
+- Barbers
+- Hair Stylists
+- Solar Installers
+- Computer Technicians
+- CCTV Installers
+- Appliance Repair Specialists
+- Handymen
+- Cleaning Services
+- Event Service Providers
+
+---
+
+💼 Professional Services
+
+Businesses and professionals can promote services such as:
+
+- Graphic Design
+- Web Development
+- Software Development
+- Digital Marketing
+- Photography
+- Videography
+- Printing Services
+- Accounting Services
+- Consulting
+- Business Registration Services
+- Training & Coaching
+- Educational Services
+
+---
+
+🏍 Riders & Logistics Services
+
+FreeMarket supports transportation and logistics professionals including:
+
+- Dispatch Riders
+- Delivery Riders
+- Courier Services
+- Logistics Companies
+- Truck Owners
+- Transport Operators
+- Moving Services
+- Cargo Services
+
+Customers can easily discover available providers and connect directly.
+
+---
+
+👥 Who Can Use FreeMarket?
+
+🏪 Businesses
+
+Retail stores, supermarkets, wholesalers, manufacturers, distributors, and entrepreneurs.
+
+👨‍🔧 Artisans
+
+Skilled workers seeking visibility and more customers.
+
+🏍 Riders
+
+Dispatch riders, logistics providers, and transport operators.
+
+💼 Professionals
+
+Freelancers, consultants, digital professionals, and service providers.
+
+👤 Individuals
+
+Anyone interested in buying, selling, hiring, or promoting products and services.
+
+---
+
+🌟 Why Choose FreeMarket?
+
+✅ Promote products and services online
+
+✅ Discover businesses and professionals
+
+✅ Find trusted artisans
+
+✅ Connect with riders and logistics providers
+
+✅ Reach customers nationwide
+
+✅ Expand your business visibility
+
+✅ Easy account creation and listing management
+
+✅ Mobile-friendly experience
+
+✅ Growing community of buyers and sellers
+
+---
+
+🎯 Our Vision
+
+To become one of Africa's most trusted digital marketplaces where products, businesses, artisans, riders, and customers can connect, trade, and grow together.
+
+---
+
+🔗 Useful Links
+
+🌍 Main Website
+
+https://freemarket.fly.dev
+
+🛍 Marketplace
+
+https://freemarket.fly.dev/marketplace
+
+🏪 Business Directory
+
+https://freemarket.fly.dev/business
+
+🔑 Login
+
+https://freemarket.fly.dev/login
+
+👤 Register
+
+https://freemarket.fly.dev/register
+
+---
+
+🤝 Community Growth
+
+FreeMarket is continuously expanding to help more people discover opportunities, promote their work, and grow their businesses through technology.
+
+Whether you are selling products, managing a business, providing professional services, working as an artisan, or operating a delivery service, FreeMarket gives you a place to be found.
+
+---
+
+👨‍💻 Developer
+
+Joshua Henry (STK Kome)
 
 GitHub: https://github.com/solutiontoolkit
 
-
 ---
 
-## 🔮 Upcoming Features
+⭐ Support FreeMarket
 
-- Fingerprint authentication
-- Advanced analytics dashboard
-- Web product showcase
-- Notification system
+If you believe in empowering businesses, artisans, riders, and entrepreneurs through technology:
 
+⭐ Star the repository
+
+🍴 Fork the project
+
+📢 Share FreeMarket with others
+
+Every user, listing, and contribution helps strengthen the marketplace ecosystem.
